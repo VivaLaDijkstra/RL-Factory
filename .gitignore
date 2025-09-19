@@ -119,6 +119,7 @@ tensorboard_log
 ckpt
 
 .hopeignore
+.hope
 
 # cache
 cache_data/
